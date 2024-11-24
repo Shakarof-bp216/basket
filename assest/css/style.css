@@ -1,0 +1,45 @@
+.carts_contanier {
+    width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card {
+    height: 300px;
+    width: 250px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img_contanier {
+    width: 230px;
+    height: 100px;
+    margin: 0 10px;
+}
+
+.tittle {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.price {
+    text-align: center;
+}
+.basket{
+    min-height: 400px;
+    width: 90%;
+    border: 1px solid black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
